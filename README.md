@@ -6,9 +6,7 @@ This repository holds example code that demos some of the new features in Python
 
 ## Introduction
 
-You need Python 3.11 installed to run these examples. See the following tutorial instructions:
-
-- [How Can You Install a Pre-Release Version of Python](https://realpython.com/python-pre-release/)
+You need Python 3.11 installed to run these examples. Since 2022-10-24 you can download this version from https://www.python.org/downloads/
 
 You can learn more about Python 3.11's new features in the following Real Python tutorials:
 
